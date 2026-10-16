@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GTPlatform",
-            url: "https://github.com/Graveltree/GT_Platform_iOS_Releases/releases/download/1.0.0/GTPlatform.xcframework.zip",
-            checksum: "5e02bf5d544a8dfc02472a758b6d807d0bcd87bf8bf26f0bb96c67c3bfc909b4"
+            url: "https://github.com/Graveltree/GT_Platform_iOS_Releases/releases/download/1.0.1/GTPlatform.xcframework.zip",
+            checksum: "9c13af28f43e41a0971c141e3a848ccc0634e476386e334ff3fae58c86284db1"
         )
     ]
 )
